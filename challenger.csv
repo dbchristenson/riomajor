@@ -1,0 +1,14 @@
+date,winner,t1,t2,t1_rating,t2_rating,t1_opening_duels,t2_opening_duels,t1_clutches,t2_clutches,t1_eco,t1_eco_won,t1_semi_eco,t1_semi_eco_won,t1_semi_buy,t1_semi_buy_won,t1_full_buy,t1_full_buy_won,t2_eco,t2_eco_won,t2_semi_eco,t2_semi_eco_won,t2_semi_buy,t2_semi_buy_won,t2_full_buy,t2_full_buy_won,maps_played
+2022-11-03,fnatic,fnatic,9z,1.1,0.96,34,23,3,3,2,0,4,0,4,1,43,29,2,0,4,0,7,3,40,20,2
+2022-11-03,cloud9,gamerlegion,cloud9,0.95,1.13,29,29,1,4,2,0,3,0,7,3,42,27,4,0,5,1,7,0,38,23,2
+2022-11-03,vitality,og,vitality,1.04,1.03,39,43,4,8,4,0,3,0,10,4,53,31,3,0,5,0,5,4,57,31,3
+2022-11-02,furia,gamerlegion,furia,0.83,1.23,21,30,3,6,2,0,2,1,4,1,40,29,5,0,4,0,9,5,30,12,2
+2022-11-02,cloud9,evil geniuses,cloud9,0.72,1.32,17,31,1,3,2,0,2,0,6,5,34,24,5,0,4,0,6,1,29,14,2
+2022-11-02,outsiders,outsiders,fnatic,1.31,0.73,33,14,3,1,2,1,1,0,5,3,35,26,2,0,6,1,8,2,27,10,2
+2022-11-02,vitality,vitality,grayhound,1.25,0.79,31,19,3,0,1,0,2,0,5,3,38,26,5,0,6,1,5,4,30,12,2
+2022-11-02,og,og,ihc,1.13,0.96,36,21,3,1,2,0,4,0,6,5,41,25,4,0,3,0,5,3,41,20,2
+2022-11-02,big,big,9z,1.26,0.85,34,19,3,4,2,0,3,0,8,7,33,20,6,0,3,0,6,2,31,17,2
+2022-11-02,cloud9,cloud9,imperial,1.12,0.99,35,40,5,7,4,0,6,1,4,2,42,26,1,0,7,1,9,4,39,22,2
+2022-11-01,bad news eagles,gamerlegion,bad news eagles,0.85,1.23,23,25,4,4,3,0,1,1,4,2,36,26,6,0,2,0,5,1,31,14,2
+2022-11-01,ihc,00nation,ihc,1.04,1.05,54,46,10,4,3,0,10,2,13,2,58,36,4,1,9,2,9,3,62,38,3
+2022-11-01,mouz,mouz,fnatic,1.14,0.94,38,36,9,5,3,0,3,0,13,7,49,28,6,0,5,0,5,3,52,30,3
